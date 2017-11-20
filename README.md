@@ -6,11 +6,9 @@ There are definitely more aspects to leakage modelling. This tutorial covers onl
 
 ## Background
 
-The tutorial is mainly inspired by the following paper:
+The tutorial is mainly inspired by the following papers:
 * [Carolyn Whitnall and Elisabeth Oswald. Profiling DPA: Efficacy and efficiency trade-offs](https://eprint.iacr.org/2013/353)
-
-Another paper would also help the understanding of linear regression techniques (in the non-profiled setting, which is not covered by this tutorial):
-* [Victor Lomné, Emmanuel Prouff, and Thomas Roche. Behind the Scene of Side Channel Attacks](https://eprint.iacr.org/2013/794)
+* [Julien Doget et al. Univariate Side Channel Attacks and Leakage Modeling](https://eprint.iacr.org/2011/302)
 
 If you are completely new to side channel analysis, you would need [this book](http://dpabook.org).
 
